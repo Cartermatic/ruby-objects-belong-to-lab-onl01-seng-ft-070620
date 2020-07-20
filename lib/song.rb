@@ -7,5 +7,5 @@ class Song
   end
 end
 
-hotline_bling = Song.new("Hotline Bling")
+
 
